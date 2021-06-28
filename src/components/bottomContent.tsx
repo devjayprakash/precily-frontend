@@ -10,7 +10,7 @@ const BottomContent: React.FC = () => {
           vitae.
         </div>
         <div className={"flex justify-center my-5"}>
-          <img src="/images/img1.svg" alt="vector image" width={500} />
+          <img src="/img1.svg" alt="vector image" width={500} />
         </div>
         <p className="text-gray-800">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum
